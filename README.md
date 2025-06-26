@@ -48,6 +48,7 @@ Soy Desarrollador web.
 ### Proyectos Destacados ✨
 
 * **Club del Mal**: Una aplicación web **ficticia** creada como un proyecto grupal. Explora un diseño visual único y está construida usando **Bootstrap, HTML, CSS y JavaScript**.
+    * **Colaboradores:** [Noelia G.](https://github.com/noeg47), [Leila A.](https://github.com/leila52), [Lorraine L.](https://github.com/Lorraine2507)
     [![Visitar Club del Mal](https://img.shields.io/badge/Ver%20Demo-red?style=for-the-badge&logo=github&logoColor=white)](https://noeg47.github.io/ClubDelMal/)
 
   
