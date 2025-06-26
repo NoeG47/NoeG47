@@ -53,4 +53,10 @@ Soy Desarrollador web.
     [![Visitar Club del Mal](https://img.shields.io/badge/Ver%20Demo-red?style=for-the-badge&logo=github&logoColor=white)](https://noeg47.github.io/ClubDelMal/)
     [![GitHub Repo](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noeg47/ClubDelMal/)
 
-  
+---
+
+### Conéctate Conmigo 🌐
+
+[![Email](https://img.shields.io/badge/Email-Cont%C3%A1ctame-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tu_email@ejemplo.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-guaman-alvarez/)
+
