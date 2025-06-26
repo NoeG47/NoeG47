@@ -42,3 +42,12 @@ Soy Desarrollador web.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+### Proyectos Destacados ✨
+
+* **Club del Mal**: Una aplicación web **ficticia** creada como un proyecto grupal. Explora un diseño visual único y está construida usando **Bootstrap, HTML, CSS y JavaScript**.
+    [![Visitar Club del Mal](https://img.shields.io/badge/Ver%20Demo-red?style=for-the-badge&logo=github&logoColor=white)](https://noeg47.github.io/ClubDelMal/)
+
+  
