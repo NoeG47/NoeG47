@@ -1,6 +1,6 @@
 # ¡Hola a todos! Soy Noé Guamán Álvarez 👋
 
-Soy Desarrollador web.
+Soy Desarrollador web apasionado por la tecnología y el aprendizaje constante.
 
 ### Acerca de Mí 🚀
 
